@@ -1,0 +1,1 @@
+"""Pantallas de MRI Console."""
